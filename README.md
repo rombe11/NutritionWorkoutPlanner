@@ -12,10 +12,11 @@ User-friendly Windows interface.
 
 **Requirements**
 
-Windows 10/11
-.NET Env
+- Windows 10/11
+- .NET Env
 
 **How to Run**
 
 1.RomFitness.exe
+
 2.RomFitness.sln 
