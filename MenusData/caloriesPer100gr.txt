@@ -1,0 +1,34 @@
+tuna
+200
+yellow cheese
+150
+bread
+100
+cottage
+100
+eggs
+50
+avocado
+100
+toast
+200
+apple
+50
+pro yogurt
+60
+granola
+230
+Beef
+200
+chicken
+180
+salmon fish
+220
+rice
+120
+green beans
+30
+skinny pasta
+40
+salad
+30
